@@ -1,5 +1,5 @@
 # Mod Class Dumper
-Reads and serialize all the fields/properties in the dll file by class
+Reads and serialize all the public(?) fields/properties in the dll file by class
 ![image](https://user-images.githubusercontent.com/11086210/219307472-1b856051-55ed-45b9-b49f-2b73c70f57d1.png)
 
 <h2>How to Use</h2>
